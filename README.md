@@ -6,7 +6,7 @@ FPActivityView
 ## About
 ============
 
-A low profile activity indicator. Works great in tableviews.
+A low profile activity indicator. Works great in tableviews. Customize the image to get a color you perfer.
 
 ## How to use
 ============
