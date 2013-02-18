@@ -1,7 +1,10 @@
 FPActivityView
 ==============
 
+## About
+============
 
+A low profile activity indicator. Works great in tableviews.
 
 ## How to use
 ============
